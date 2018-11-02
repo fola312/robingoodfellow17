@@ -1,0 +1,12 @@
+body{
+    background-image: url(comingsoon.jpg);
+    background-repeat: initial;
+    background-size:100vh;
+
+}
+.blink{
+    margin-left: 1.66%;
+    font-family: 'Yesteryear', cursive;
+    font-size: 30px;
+    color: #007bff;
+    }
